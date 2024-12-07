@@ -1,16 +1,11 @@
 # version1
+APK Update Checker and Downloader
 
-A new Flutter project.
 
-## Getting Started
+This Flutter application checks for updates to the current version of the app and downloads the updated APK from a specified URL. If an update is available, the user is prompted to download and install the new version.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Version checking to compare the current version with the latest version.
+Update notification via a dialog prompt.
+Direct APK download from a provided URL.
+Automatic APK installation after the download.
